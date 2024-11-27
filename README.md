@@ -1,1 +1,1 @@
-Simple Calculator with GUI using tkinter
+Simple Calculator with GUI importing tkinter
